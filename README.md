@@ -6,7 +6,9 @@
 
 <h2 align ="center"> My projects! </h2>
 <p align ="left"> **[Theory of Relativity simulation ABA project](https://github.com/HausiTheSigma/relativity-simulation)**
+  **[System Design](https://blog.bytebytego.com/p/free-system-design-pdf-158-pages)**
 <p align ="left"> **[My Competitive Programming Journey](https://github.com/HausiTheSigma/competitive-programming)** </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
