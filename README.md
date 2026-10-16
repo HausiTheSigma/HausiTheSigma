@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Max!</h1>
 <h3 align="center">I am a High School student in Tyrol, Austria and i would like to study Mathematics soon. With this page i want to document my progress on stuff concerning IT and my ABA project.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hausithesigma" alt="hausithesigma" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
