@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Max!</h1>
 <h3 align="center">I am a High School student in Tyrol, Austria and i would like to study Mathematics soon. With this page i want to document my progress on stuff concerning IT and my ABA project.</h3>
 
+<h3 align="left"> About me! </h3>
+<p align ="left"> I am a piano and organ --yes, organ-- student in my local town and I enjoy listening and ,obviously, playing classical music. Some of my favourit artists are Mendelsohn, Rachmaninoff, Chopin and Liszt. If you feel like it, I'm always available for some music-talk </p>
+
+<h2 align ="center"> My projects!
+<p align ="left"> Theory of Relativity simulation ABA project: <a href="https://github.com/HausiTheSigma/relativity-simulation" target="blank">
+<p align ="left"> My Competitive Programming Journey: <a href="https://github.com/HausiTheSigma/competitive-programming" target="blank">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
