@@ -5,8 +5,8 @@
 <p align ="left"> I am a piano and organ --yes, organ-- student in my local town and I enjoy listening and ,obviously, playing classical music. Some of my favourit artists are Mendelsohn, Rachmaninoff, Chopin and Liszt. If you feel like it, I'm always available for some music-talk </p>
 
 <h2 align ="center"> My projects!
-<p align ="left"> Theory of Relativity simulation ABA project: <a href="https://github.com/HausiTheSigma/relativity-simulation" target="blank">
-<p align ="left"> My Competitive Programming Journey: <a href="https://github.com/HausiTheSigma/competitive-programming" target="blank">
+<p align ="left"> Theory of Relativity simulation ABA project:"https://github.com/HausiTheSigma/relativity-simulation"
+<p align ="left"> My Competitive Programming Journey: "https://github.com/HausiTheSigma/competitive-programming"
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
